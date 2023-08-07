@@ -1,0 +1,11 @@
+{
+    "name": "yetibot/yeti",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yeti\\": "src/"
+        }
+    },
+    "require": {}
+}
